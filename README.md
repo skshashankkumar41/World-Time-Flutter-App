@@ -1,5 +1,4 @@
-# world_clock_app
-
+# World Time Flutter App
 A new Flutter application.
 
 ## Getting Started
